@@ -1,0 +1,13 @@
+{
+    "name": "localmarkethub",
+    "version": "1.0.0",
+    "description": "LocalMarketHub Mini App",
+    "main": "index.html",
+    "scripts": {
+      "build": "echo 'Building project...'"
+    },
+    "author": "Your Name",
+    "license": "ISC",
+    "dependencies": {}
+  }
+  
